@@ -1,0 +1,35 @@
+    body {
+        background: rgb(205, 191, 212);
+    }
+  
+    .timer-container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        justify-content: space-between;
+        text-align: center;
+    }
+  
+  
+    .timer {
+        font-family: sans-serif;
+        display: flex;
+        font-weight: 50;
+    }
+  
+    .field {
+        border-radius: 3px;
+        font-size: 70px;
+        color: rgb(13, 7, 27);
+    }
+  
+    .value{
+        padding: 15px;
+    }
+  
+    .label {
+        display: block;
+        padding-top: 5px;
+        font-size: 18px;
+    }
