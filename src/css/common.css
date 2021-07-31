@@ -7,8 +7,8 @@
       Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #ffffff;
-    color: #212121;
+    background: rgb(205, 191, 212);
+    color: #100511;
     line-height: 1.5;
 
     font-size: 20px;
@@ -21,7 +21,7 @@
   }
 
   .link {
-    color: #757575;
+    color: #0b0414;
     fill: #757575;
     text-decoration: none;
     -webkit-box-align: center;

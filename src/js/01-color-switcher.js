@@ -17,7 +17,7 @@ let intervalId = null;
 const startChangeColor = () => {
     if (startButtonOn) {
         startButtonOn = false;
-        intervalId = setInterval(changeBgColor, 2000);
+        intervalId = setInterval(changeBgColor, 1000);
     }
 }
 
